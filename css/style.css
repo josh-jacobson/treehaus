@@ -45,6 +45,10 @@ a:active, a:visited {
 	color:#fff;
 }
 
+.logo {
+	padding-top: 12px;
+}
+
 .fullSection {
 	min-height:100%;
 	padding:100px 0;
